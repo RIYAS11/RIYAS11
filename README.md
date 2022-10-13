@@ -1,4 +1,4 @@
-<img margin-left="10000px" width="400px" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
+<img margin-left="10000%" width="400px" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 <h1 align="center">Hi 👋, I'm RIYAS S</h1>
 <h3 align="center">Aspiring Java Back-end Developer</h3>
 
