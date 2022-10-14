@@ -1,4 +1,4 @@
-<img  align="center" height="40" width="50" margin-left="50" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img  align="center" height="40" width="50" margin-left="5000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h1 align="center">Hi 👋, I'm RIYAS S</h1>
 <h3 align="center">Aspiring Java Back-end Developer</h3>
 
