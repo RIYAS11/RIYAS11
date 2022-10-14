@@ -1,4 +1,4 @@
-<div><img  width="5000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></div>
+<div><img  width="1000" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></div>
 <h1 align="center">Hi 👋, I'm RIYAS S</h1>
 <h3 align="center">Aspiring Java Back-end Developer</h3>
 
