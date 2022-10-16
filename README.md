@@ -16,7 +16,7 @@
 - 📫 How to reach me: ...**riyass973@gmail.com**
 - 😄 Pronouns: ...@Riyas
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://cdn.dribbble.com/users/2206859/screenshots/5795316/main_robot_dribble_icon_1.gif">
 
                                                        
 <h2><i>My GitHub Status</i></h2>
@@ -29,7 +29,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=riyas11&theme=xcode" height ="307"/>
 
-![snake gif](https://github.com/vinaykumarkunder/riyas11/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -59,7 +58,6 @@
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="JavaScript" height="50" /> 
    
  
 
