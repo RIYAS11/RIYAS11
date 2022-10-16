@@ -6,7 +6,7 @@
 <h1 align="center"> 😇(Hello everyone)" 👋</h1>
 <h3 align="center">Currently Learning Java Backend Development from Masai School</h3>
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/5795316/main_robot_dribble_icon_1.gif">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
@@ -18,7 +18,6 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<img src="https://cdn.dribbble.com/users/2206859/screenshots/5795316/main_robot_dribble_icon_1.gif">
 
                                                        
 <h2><i>My GitHub Status</i></h2>
