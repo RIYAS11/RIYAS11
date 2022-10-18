@@ -5,7 +5,7 @@
 <h1 align="center"> 😇(Hello everyone)" 👋</h1>
 <h3 align="center">Currently Learning Java Backend Development from Masai School</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2206859/screenshots/5795316/main_robot_dribble_icon_1.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3667c682cf4cdd7df8d1a51952c22cc445b3af056df50d221ac51648accd2c83/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d656366303565343761343262336e34386d356d32326c776834677a737571646238666566326d317364696f6f62726332267269643d67697068792e6769662663743d67">
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
@@ -16,11 +16,10 @@
 - 😄 Pronouns: ...@Riyas
 
 
-<img src="https://camo.githubusercontent.com/3667c682cf4cdd7df8d1a51952c22cc445b3af056df50d221ac51648accd2c83/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d656366303565343761343262336e34386d356d32326c776834677a737571646238666566326d317364696f6f62726332267269643d67697068792e6769662663743d67">
+
 
                                                        
 <h2><i>My GitHub Status</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyas11&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=riyas11&show_icons=true&locale=en&theme=dark" alt="riyas11"  height="139" />
