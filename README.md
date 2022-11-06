@@ -9,8 +9,8 @@
                                                        
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning **Masai School (Backend Developer)**
-- 💬 Ask me about **Java**
-- 👨‍💻 All of my projects are available at [My Portfolio]("linkadded")
+- 💬 Ask me about **Java**t
+- 👨‍💻 All of my projects are available at [My Portfolio](https://riyas11.github.io)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/179BJyBVeqhh6FE72f1ELiQdIvlqfSa6h/view?usp=sharing)
 - 📫 How to reach me: ...**riyass973@gmail.com**
 - 😄 Pronouns: ...@Riyas
