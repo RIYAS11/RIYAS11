@@ -22,11 +22,11 @@
 <h2><i>My GitHub Status</i></h2>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=riyas11&show_icons=true&locale=en&theme=dark" alt="riyas11"  height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=suraj&show_icons=true&locale=en&theme=dark" alt="riyas11"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyas11&show_icons=true&locale=en&layout=compact&theme=dark" alt="riyas11" height="139" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=suraj&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=riyas11&theme=xcode" height ="307"/>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
