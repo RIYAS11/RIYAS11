@@ -23,7 +23,7 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=riyas11&show_icons=true&locale=en&theme=dark" alt="riyas11"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="riyas11" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyas11&show_icons=true&locale=en&layout=compact&theme=dark" alt="riyas11" height="139" />
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=riyas11&theme=xcode" height ="307"/>
