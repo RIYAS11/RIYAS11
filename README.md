@@ -42,7 +42,6 @@
 <p align="center">
  
   <a href="https://riyas11.github.io" target="blank"><img align="center" src="https://thumbs.dreamstime.com/z/portfolio-line-icon-single-high-quality-outline-symbol-web-design-mobile-app-thin-sign-design-logo-black-outline-84200834.jpg" alt="portfolio" height="25" width="35" /></a>
-
 <a href="https://www.linkedin.com/in/riyas973/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyass" height="25" width="35" /></a>
   <a href="mailto:email@riyass973.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="email" height="25" width="35" /></a>
 </p>
