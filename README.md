@@ -13,6 +13,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://riyas11.github.io)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GkEuijh15mIkpGbTk46RRbVLk1Sr0rQI/view?usp=sharing)
 - 📫 How to reach me: ...**riyass973@gmail.com**
+- ConnectMe On [LinkedIn](https://www.linkedin.com/in/riyas973/)
 - 😄 Pronouns: ...@Riyas
 
 
